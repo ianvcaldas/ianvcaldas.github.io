@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian V. Caldas</title>
+    <link>https://ianvcaldas.github.io/</link>
+    <description>Recent content on Ian V. Caldas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2019 15:01:54 -0400</lastBuildDate>
+    
+	<atom:link href="https://ianvcaldas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ianvcaldas.github.io/publications/</link>
+      <pubDate>Fri, 28 Jun 2019 15:01:54 -0400</pubDate>
+      
+      <guid>https://ianvcaldas.github.io/publications/</guid>
+      <description>Caldas, I.V., Schrago, C.G. (2019). Data partitioning and correction for ascertainment bias reduce the uncertainty of placental mammal divergence times inferred from the morphological clock. Ecology and Evolution, 9: 2255-2262. https://doi.org/10.1002/ece3.4921
+Duneau, D., Sun, H., Revah, J., San Miguel, K., Kunerth, H.D., Caldas, I.V., Messer, P.W., Scott, J.G., Buchon, N. (2018). Signatures of insecticide selection in the genome of Drosophila melanogaster. G3: Genes, Genomes, Genetics, 8(11): 3469-3480. https://doi.org/10.1534/g3.118.200537
+Wei, K.H-C., Lower, S.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://ianvcaldas.github.io/cv/</link>
+      <pubDate>Fri, 28 Jun 2019 15:01:24 -0400</pubDate>
+      
+      <guid>https://ianvcaldas.github.io/cv/</guid>
+      <description>You can download a PDF of my CV here.</description>
+    </item>
+    
+  </channel>
+</rss>
