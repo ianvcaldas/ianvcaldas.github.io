@@ -1,0 +1,28 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Ian V. Caldas
+
+theme: cupper-hugo-theme
+
+params:
+  defaultDarkTheme: false
+
+menu:
+  nav:
+    -
+      name: Home
+      url: "/"
+      weight: -1
+    -
+      name: Academic CV
+      url: "/cv.pdf"
+      weight: 2
+    -
+      name: About
+      url: "/about"
+      weight: 1
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
